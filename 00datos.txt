@@ -1,5 +1,0 @@
-u016 = dbd0d855
-Javier Velázquez Martínez
-Ángel Domínguez Fernández
-Plataforma: iPhone X (iOS 14.3) y Xiaomi Redmi Note 9 pro (Android 10)
-Mejoras realizadas: navegación y almacenamiento de preguntas
